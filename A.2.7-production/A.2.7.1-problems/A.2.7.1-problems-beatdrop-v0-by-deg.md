@@ -1,4 +1,35 @@
-## 2023.12.24.SUN/ 1401 CST/ 3.6 Story/ 2.7.1 Problems beatDrop v0 Storyboard by DEG
+## 2023.12.23.SAT/ 1433 CST/ 2.7.1 Problems beatDrop v0 Publication by DEG/ b5communications
+
+#### YOU: beatDrop Title
+- beatDrop 2.7.1 Problems: What's the prob, blob?
+
+#### NEED: beatDrop Abstract
+- 1.8 PROVIDER:
+  - Problem Statement: Institutions are disconnected from humans, so our civil chains...
+  - Risk Video Clip: The Joker by Alan Watts
+- 9.0 CONSUMER:
+  - Problem Statement: Humans are disconnected from The Planet, so our value chains...
+  - Risk Video Clip: Pharrel & Rick Rubin Have an Epic Convo
+- 0.9 PRODUCER:
+  - Risk Video Clip: The Next Phase of Human Existence - Terence McKenna by After Skool
+  - Problem Statement: The Planet is disconnected from or platforms, so our supply chains...
+- 2.7 OWNER:
+  - Risk Video Clip: Humanity's Phase Shift
+  - Problem Statement: Platforms are disconnected from eachother, so our investment chains...
+ 
+#### GO: beatDrop Research Background
+
+#### SEARCH: beatDrop Research Questions
+
+#### FIND: beatDrop Research Methods
+
+#### TAKE: beatDrop Significance
+
+#### RETURN: beatDrop Budget
+
+#### CHANGED: beatDrop Timeline
+
+## 2023.12.24.SUN/ 1401 CST/ 2.7.1 Problems beatDrop v0 Storyboard by DEG/ b6story
 
 - 2.7 OWNER:
   - One Piece: Lufy as **King of the Pirates** Investment Chain Design Engineer

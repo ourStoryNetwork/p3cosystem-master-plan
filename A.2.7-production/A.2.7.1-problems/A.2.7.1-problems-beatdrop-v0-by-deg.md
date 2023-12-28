@@ -5,29 +5,65 @@
 
 #### NEED: beatDrop Abstract
 - 1.8 PROVIDER:
-  - Problem Statement: Institutions are disconnected from humans, so our civil chains...
-  - Risk Video Clip: The Joker by Alan Watts
+  - Problem Statement: Institutions are disconnected from humans, so our "2.7.1 Problems" civil chains invest in potential solutions that don't resonate with the public's true desires for their communities.
 - 9.0 CONSUMER:
-  - Problem Statement: Humans are disconnected from The Planet, so our value chains...
-  - Risk Video Clip: Pharrel & Rick Rubin Have an Epic Convo
-- 0.9 PRODUCER:
-  - Risk Video Clip: The Next Phase of Human Existence - Terence McKenna by After Skool
-  - Problem Statement: The Planet is disconnected from or platforms, so our supply chains...
+  - Problem Statement: Humans are disconnected from The Planet, so our "2.7.1 Problems" value chains are able to manipulate people to focus on issues that don't concern them. When we're not grounded in reality..if we're not grounded in what we truly value, then propaganda can be used to manufacture problems that don't resonate with what we actually value.
+- 0.9 PRODUCER
+  - Problem Statement: The Planet is disconnected from or platforms, so our "2.7.1 Problems" supply chains become focused on solving egoic, narrow focused, problems that don't factor in the negative impact on the same environment that's needed for them to exist. Parasitic problem statements that are destructive to the source of supply chains.
 - 2.7 OWNER:
-  - Risk Video Clip: Humanity's Phase Shift
-  - Problem Statement: Platforms are disconnected from eachother, so our investment chains...
+  - Problem Statement: Platforms are disconnected from eachother, so our investment chains incentivize competition through conflicting problem statements that lead to more problems and divisin. Each person is effectiely a parallel reality, but out platforms promote division, so we invest in our ongoing misery since we can't agree on a problem worth solving together.
  
 #### GO: beatDrop Research Background
+- 1.8 PROVIDER:
+  - Risk Video Clip: The Role of the Joker by Alan Watts
+  - PERSPECTIVE: Civil Chains need a decentralized foolish institution
+  - "Never Serious. Always sincere."
+  - "Society can't stand non-participation"
+- 9.0 CONSUMER:
+  - Risk Video Clip: Pharrel & Rick Rubin Have an Epic Convo
+  - PERSPECTIVE: Value Chains need intentional creativity
+  - Beginning to 4:41
+- 0.9 PRODUCER:
+  - Risk Video Clip: Terence McKenna on Fractals
+  - PERSPECTIVE: Supply Chains need fractal basis of design
+  - 7:54 - Planet is a fractal, so our problems should be fractals
+  - 10:00 - Math Problem / Universal language
+  - 12:00
+  - 15:12 - Key to understanding our problems
+- 2.7 OWNER:
+  - Risk Video Clip: Humanity's Phase Shift
+  - PERSPECTIVE: Investment Chains need balanced & holistic approaches
 
 #### SEARCH: beatDrop Research Questions
+- Book Quote/question for PROVIDER, CONSUMER, PRODUCER, & OWNER
+  - PROVIDER: How would an open source civil chain define a city's problems?
+  - CONSUMER: How would creative value chains define mindful manufacturing?
+  - PRODUCER: How would fractal supply chains define empower low income areas?
+  - OWNER: How would symbiotic investment chains define sustainable innovation?
 
 #### FIND: beatDrop Research Methods
+- Method is beatDrops - research from books, articles, and social media
+- Present ongoing questions and clips as an open source dialogue
+- Consider risks and alternatives
+- How will data be analyzed?
 
 #### TAKE: beatDrop Significance
+- Why is this work significant
+- Why should someone invest in this?
+- How does this build on what we already know?
 
 #### RETURN: beatDrop Budget
+- $2.70 Donation
+- $27 for 30 minute call and guidance
+- $270 for 1 hour call 
 
 #### CHANGED: beatDrop Timeline
+- Timeline over 4 years
+- Year 1 is OWNER
+- Year 2 is PRODUCER
+- Year 3 is CONSUMER
+- Year 4 is PROVIDER
+- Timeline 
 
 ## 2023.12.24.SUN/ 1401 CST/ 2.7.1 Problems beatDrop v0 Storyboard by DEG/ b6story
 

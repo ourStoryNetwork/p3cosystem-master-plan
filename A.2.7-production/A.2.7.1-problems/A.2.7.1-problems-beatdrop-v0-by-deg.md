@@ -107,6 +107,8 @@ PROVIDER: ep0_daoTeaching
 - Call to Action: Start Your Master Plan Journey Today
 - Social Proof: Summarize case studies
 
+![F19175AC-F738-4073-91D6-F908F43F4528](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/7c1e8c6b-ab4a-4153-93bb-d7667afbc810)
+
 ## 2023.12.23.SAT/ 1433 CST/ 2.7.1 Problems beatDrop v0 Publication by DEG/ b5communications
 
 #### YOU: beatDrop Title
@@ -172,7 +174,11 @@ PROVIDER: ep0_daoTeaching
 - Year 2 is PRODUCER
 - Year 3 is CONSUMER
 - Year 4 is PROVIDER
-- Timeline 
+- Timeline
+
+![4EC586B1-01E0-4F94-99B8-BAB06556DEDD](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/f9530aa3-da34-4008-95d5-4a72b57baa66)
+
+![89B90D24-5AE5-4436-B3CF-C77172503F31](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/09ad59f3-48e1-4d32-b33b-b1eb722447a8)
 
 ## 2023.12.24.SUN/ 1401 CST/ 2.7.1 Problems beatDrop v0 Storyboard by DEG/ b6story
 

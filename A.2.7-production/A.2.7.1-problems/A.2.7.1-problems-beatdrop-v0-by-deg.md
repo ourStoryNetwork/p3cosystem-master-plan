@@ -1,3 +1,63 @@
+## 2023.12.21.THU/ 1823 CST/ 2.7.1 Problems beatDrop v0 Publication by DEG/ b3marketing
+Risk Management/ Marketing
+1. Choose Video: ['Humanity's Phase Shift', Daniel Schumachtenberger](https://youtu.be/nQRzxEobWco?si=Fae0XiKvlwvrdeI0) by Rebel Wisdom
+2. Choose 4 clips and associate with 4 risks
+3. (future step) Choose 4 presene clips (future step)
+4. (future step) Create 9-part marketing campaign to highlight how 2.7.1 is the contingency strategy for the identified risk
+
+['Humanity's Phase Shift', Daniel Schumachtenberger](https://youtu.be/nQRzxEobWco?si=Fae0XiKvlwvrdeI0) by Rebel Wisdom
+- Clip #1: 0:17 to 04:55
+  - OWNER: Precedence is that civilization always collapses, but this is the first time that we have an interdependent global civilization (no single country can make all of its own goods). So, on a global scale civilization collapse is catastrphic.
+  - CONSUMER: Past civilizations have cause desertification through unrenewable agriculture, but unrenewable agriculture hasn't become a global practice until the last 100 years. Our global civilization has the ability to drive numerous animals critical for ecological balance to extinction (In 100 years of industrialized fishing we've removed of the large fish from The Planet)
+  - PROVIDER: We're operating with the same war prone, enviornmentally destructive practices, but now paired with exponential technology that puts exponentially more pressure on a finite biosphere
+  - PRODUCER: We practice exponential extraction and depletion with an open loop pipeline within a closed loop system. Civilization is parastitic and is debasing the substrate that we depend on with eponential extraction and pollution.
+  - CONSUMER: We're exponentially expanding our money supply that has to be based on finite goods and services which is unsustainable
+  - OWNER: Civilization competes with narratives and information, but we have exponential information technology that can be used for disinformation and population control, so we can't trust or make sense of what we're provided with
+  - PROVIDER: Humanity has an exponentially decreased sensemaking capacity with an exponentially increasing and corrupted information ecology to make broad sweeping choices, the harm our centralized choises can make are increasingly dangerous
+  - OWNER: The challenges that we face today are fundamentally the same as all past civilizations, but our technologies make the speed and magnitude of them exponentially greater
+- Clip #2: 04:46 to 11:45
+  - We need a consciousness shift around our operating procedures, but it's difficult for people to think about problems comprehensively/holistically.
+  - Econimics is humanity's value system that incentivizes specific practices, but our current economic system incentivizes psychopathic behavior, so it forces humans to reduce their humanity to survive within the system.
+  - Economics is incentivized to protecti its own profit streams by influencing media to control people's sensemaking frameworks and influence governance/legislation that educates people to be prepared for the workforce
+  - We need new systems of governance, because Democracy is a flawed system due to the impossibility of getting large numbers of people to agree on anything.
+  - The propositions that the public votes on with a democratic process were proposed by a small group of oligarcs who have limited sensemaking abilities, so the ideas proposed always have destructive tendancies baked in, so everything proposed inherently drive to growing polarization.
+  - Politicians aren't effective at sensemaking to present compelling propositions. The public has the "power" to make "yes" or "no" decisions based on poor and limited choices. Democracy is based on polarization.
+  - We don't have a large group of people focused on exploring how we can individually and collectively make sense of what's going on and what we value, how can our values find symbiosis, and how can we design for optimized synergies at all institutional and individual levels.
+  - Individuals fundamentally see themselves as separate from one another and the biosphere, so they are incentivized to optimize their own quality of life at the independent of and at the expense of others and the biosphere
+  - Experts don't truly understand our dependence on and value of trees and the biosphere, so they destroy them and find ways to call it a renewable resource. Humanity isn't a concept without plants, but humans often talk about nature as if it's something separate, which makes it easier for us to continue to make destructive decisions that debase the systems that our society depends on.
+  - People don't see themselves as an emergent property of the planet, the sun, the solar system, and the universe, because they have been programmed for limited thinking so they can be more easily controlled and manipulated
+  - As long as people see themselves as separate from other humans, cities, states, nations, races, etc in competition for resource, then we have a fundamental basis for war.
+  - Rivalrous dynamics multiplied by exponential tech self terminates. Exponential tech is inevitable, and our current experts are incentivized to keep nations at war, so they are not fit to keep us from a self-destructive future.
+  - Anti-rivalry is a psycho-spiritial process that people can't handle within themselves. People don't have self-sovereignty over their won emotional, physical, and mental health within themselves or their families, and we need to figure this out on a collective scale.
+- Clip #3: 11:48 to 15:48
+  - Animals are instinctive from birth, but humans are fetal for a very long time because we're niche creators who are meant to adapt to any environment. This means we're more affected by our environemnt than any other species.
+  - Our whole evolutionary species has been dependent on the self-organizing dynamics of nature, but now we've severed ourselves from complex systems in exchange for simple man made systems, so we've lost our intuition for nature/complexity/etc.
+  - Humanity needs to recondition an intuitive sense of our connection to everything, but that's not a trivial process.
+  - Our society can't answer the questions "who are we without plants?" or "who are we without polinators?" meaning we're living in an unconsciously narsaccistic civilization. We live in an irrational society that creates depression.
+  - People need to spend more time in nature, do psychedellics, create more meaningful relationships with more people, and question their connection to everything else, but our platforms and institutions incentivize the opposite behaviors
+- Clip #4: 15:49 to 19:30
+  - The shift that we're on the cusp of is diff from dark age to enlightenment or shift into agriculture. This is more like a shift from single cell to multi-cellular based on the level and type of shift in reality.
+  - Evolution inspired rivalrous dynamics, but also brought about our ability for prefrontal cortex abilities for design and technology. Lions can't upgrade faster than gazelles. Great white sharks upgrade as fast as seals. Humans position themselves as apex predators over environments, animals, and one another, but we have technology that allows us to upgrade father than environments, animals, and one another which leads to genocides of ecosystems and humans.
+  - Evolution is an unconscious process (at the level of the animal) that takes a long time and it results in a very complex process, but humans operate based on design engineering which is a much faster process that only optimize for a small number of things that have negative impacts on other systems.
+  - Evolution kept increasing orderly complexity until we got to the level of abstraction where we could contemplate evolution itself, so we have the ability to move away from the parts of a whole in competition. We have the ability to work as conscious agents, but we've chosen to act as apex predators, but "apex predators" that are able to destroy an entire species is more of a cancer/tummor.
+  - Humans have evolved to the cognitive ability to act as agents of nature, but don't have a strong enough personal or collective understanding of what we are as nature to adequatly steward civilization in symbiosis with The Planet.
+  - We are part of the whole, but our platforms are only focused on specific parts, so as technology gives us the power of gods, we need to operate with the consciousness of gods which is a large task
+- Clip #5: 19:49
+  - Platforms are designing for continuations of current progress, but humanity needs to be exploring epoch shifts based on intentional focuses on criteria of civilizations that don't self terminate
+  - Our current political leaders aren't equipt to change the system because they are fundamentally part of the self-destructive system
+  - We are trying to use a corrupted system to fix the same corrupted system instead of working on creating a new system that makes the corrupted system obsolete
+  - Humans are scared of any form of death, so they are unable to see the good that can happen from a phase shift similar to a butterfly's metamorphosis. Currently humanity is optimized to act as a caterpillar, but we aren't spending on any time on what it takes to build us into a butterfly.
+  - There's a finite time in nature when discrete non linear phase shift (in the womb vs birth and catterpilar vs butterfly), but humanity isn't exploring what our phase shift will work on a large scale that involves large scale, non-oligarcal, sensemaking
+  - Humanity doesn't have any systems that act as a check/balance on current system that's anti-rivalrous (symbiotic)
+  - Phase shift needs to happen at the individual, familial, communal, and collective level for this to work, but no platforms are meaningfully working on a fractal non-rivalrous incentives that work at each of these scales, so no solutions will be effective
+  - People are still trying to win at the game that is trying to kill everything, so it's impossible to escape hopelessness
+- Clip #6:
+  - People can't get along with their family and ex-partners, think they're right and everyone else is wrong, and have strong stances on international affairs, but don't know how to handle conflict resolution internally and at a local level.
+  - People assume others are going to fix these issues or freak out as if everything is doomed without acknowledging the fact that there is a path forward and that they will need to learn a lot more than they currently do. People are scared to be an imaginal cell because they find safety in conformity, so we're trapped in a pattern of conforming to destructive behaviors because we're scared to rock the "sinking" boat.
+ 
+![811A881A-4C29-494D-925E-DE55D7F46312](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/7fd2a415-9bbe-483b-9b8d-0dc140710d60)
+
+
 ## 2023.12.22.FRI/ 1008 CST/ 2.7.1 Problems beatDrop v0 Publication by DEG/ b4sales
 [ChatGPT for Outlining b4sales Landing Page](https://chat.openai.com/share/e256a912-5dea-4da1-af33-eccff4855ee2)
 

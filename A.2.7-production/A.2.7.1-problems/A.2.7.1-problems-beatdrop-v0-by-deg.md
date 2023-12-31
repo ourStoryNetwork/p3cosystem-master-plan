@@ -34,6 +34,9 @@ Brand Strategy
   - Spirit : Human :: Investent Chain : Humanity
   - Investment Chain is Humanity's Spirit
   - etc.
+ 
+![4B0354BE-F99B-49A2-AD9D-61EEC6FC2F74](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/93cee1ee-8b8c-4ebc-8695-a664078048f0)
+![1A7E7E8A-DB2E-4CD3-80C9-E60F46FF2863](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/1646fd37-35be-4943-abbf-1b9adfcb97f6)
 
 ## 2023.12.21.THU/ 1823 CST/ 2.7.1 Problems beatDrop v0 Ecosystem Marketing by DEG/ b3marketing
 Risk Management/ Marketing

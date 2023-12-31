@@ -1,4 +1,41 @@
-## 2023.12.21.THU/ 1823 CST/ 2.7.1 Problems beatDrop v0 Publication by DEG/ b3marketing
+## 2023.12.20.WED/ 1404 CST/ 2.7.1 Problems beatDrop v0 Branding by DEG/ b2design
+#### Outline Brand Glyph
+
+beatDrop 2.7.1 Problems - b2design:
+- OWNER
+  - Programming Interfaces: 852solPi
+  - oS3 Code: gr7myJourney
+  - Eukaryote: Cell (Nucleus)
+  - Human: Spirit
+  - Humanity: Investment Chain
+- PRODUCER
+  - Programming Interfaces: 144phiPi
+  - oS3 Code: gr7v1ecology
+  - Eukaryote: Fungi (Spore)
+  - Human: Soul
+  - Humanity: Supply Chain
+- CONSUMER
+  - Programming Interfaces: 432ourPi
+  - oS3 Code: gr7v2physiology
+  - Eukaryote: Human (Nervous System)
+  - Human: Body
+  - Humanity: Value Chain
+- PROVIDER
+  - Programming Interfaces: 369myPi
+  - oS3 Code: gr7v3sociology
+  - Eukaryote: Tree (Seed)
+  - Human: Mind
+  - Humanity: Civil Chain
+
+Brand Strategy
+- Create planetaryPhysiology
+- Create analogies with the relationships below
+- Examples:
+  - Spirit : Human :: Investent Chain : Humanity
+  - Investment Chain is Humanity's Spirit
+  - etc.
+
+## 2023.12.21.THU/ 1823 CST/ 2.7.1 Problems beatDrop v0 Ecosystem Marketing by DEG/ b3marketing
 Risk Management/ Marketing
 1. Choose Video: ['Humanity's Phase Shift', Daniel Schumachtenberger](https://youtu.be/nQRzxEobWco?si=Fae0XiKvlwvrdeI0) by Rebel Wisdom
 2. Choose 4 clips and associate with 4 risks
@@ -58,7 +95,7 @@ Risk Management/ Marketing
 ![811A881A-4C29-494D-925E-DE55D7F46312](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/7fd2a415-9bbe-483b-9b8d-0dc140710d60)
 
 
-## 2023.12.22.FRI/ 1008 CST/ 2.7.1 Problems beatDrop v0 Publication by DEG/ b4sales
+## 2023.12.22.FRI/ 1008 CST/ 2.7.1 Problems beatDrop v0 Landing Page by DEG/ b4sales
 [ChatGPT for Outlining b4sales Landing Page](https://chat.openai.com/share/e256a912-5dea-4da1-af33-eccff4855ee2)
 
 #### YOU: Above the Fold

@@ -1,4 +1,40 @@
 ## 2023.12.20.WED/ 1404 CST/ 2.7.1 Problems beatDrop v0 Branding by DEG/ b2design
+#### Outline Management Glyp
+
+beatDrop 2.7.1 Problems - b1management:
+- OWNER: What's the purpose of this beatDrop?
+  - Publish problem statements for your parallel permaculture platform ecosystem
+- PRODUCER: Who are the players?
+  - OWNER: DEG Entreprises > ourStory
+  - PRODUCER: LP7_chiefExecutiveOffice
+  - CONSUMER: beatDrop 2.7.1 Problems
+  - PROVIDER: EP7_malangaMindset
+- CONSUMER: What questions fuel this beatDrop?
+  - OWNER: What problem is created when The Planet/humanity is disconnected from protists/spirit?
+  - PRODUCER: What problem is created when The Planet/humanity is disconnected from fungi/soul?
+  - CONSUMER: What problem is created when The Planet/humanity is disconnected from animalae/body?
+  - PROVIDER: What problem is created when The Planet/humanity is disconnected from plantae/mind?
+- PROVIDER: What is the goal of this beatDrop?
+  - EP7_malanagaMindset: Malanga as the #1 cash crop in Africa
+
+8.1 Management:
+- Day 1: Create Problem Statements
+- Day 2: Schedule beatDrop
+- Day 3: Design beatDrop
+- Day 4: Market beatDrop
+- Day 5: Pitch beatDrop
+- Day 6: Publish beatDrop
+- Day 7: Storyboard beatDrop
+
+Logistics (Proposed Tools)
+- 2.7: GitHub (Kafka) - p3cosystem Master Plan Website
+- 0.9: Notion AI Prompts - Supply Chain Journal
+- 9.0: Web5/ three.js - Value Chain Wallet
+- 1.8: blenderBIM - Civil Chain Model
+
+
+
+## 2023.12.20.WED/ 1404 CST/ 2.7.1 Problems beatDrop v0 Branding by DEG/ b2design
 #### Outline Brand Glyph
 
 beatDrop 2.7.1 Problems - b2design:

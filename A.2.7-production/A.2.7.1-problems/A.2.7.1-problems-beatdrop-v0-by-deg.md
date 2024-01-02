@@ -32,7 +32,7 @@ Logistics (Proposed Tools)
 - 9.0: Web5/ three.js - Value Chain Wallet
 - 1.8: blenderBIM - Civil Chain Model
 
-
+![8E3FC59E-9A40-4702-856C-39AC470B02FD](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/ea39d723-8597-4cc7-b4c3-fc984c7aab0f)
 
 ## 2023.12.20.WED/ 1404 CST/ 2.7.1 Problems beatDrop v0 Branding by DEG/ b2design
 #### Outline Brand Glyph

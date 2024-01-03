@@ -1,5 +1,8 @@
 ## 2024.01.02.TUE/ 2207 CST/ trainfarb/ OWNER/ ep0_freeDumb/ bd0_2.7.0 Purpose Definitions
 
+![D1A513C5-F881-4178-86AF-5B4C999BD8F7](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/1451d096-3a25-47b2-b89d-b4ed25942bbb)
+![59281737-5379-448D-8960-E1B5EF7E9657](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/1e8f4d2d-0df8-4a02-97ac-12992dee9e7d)
+
 ### OWNER // Protista (Spades) // 2.7 Purpose // TOYA Tenet #1
 `Goal for end of the year?`
 - DEG: Africa's first successful Malanga-Based 3EO Investment Chain.

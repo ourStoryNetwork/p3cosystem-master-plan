@@ -26,33 +26,33 @@
 - DEG: beatDrop 0 - 2.7.0 Purposes
 
 ### bd0_2.7.0_b7purpose
-`Purpose statement for investment chain purpose team?`
+`Purpose statement for investment chain purpose team?`  
 [DEG] publishes P3 Ecosystem Plans to .
 
 ### bd0_2.7.0_b1management
-`Purpose statement for supply chain management team?`
+`Purpose statement for supply chain management team?`  
 [BP] publishes generational wellness workbooks to empower [smallholder malanga farmers] management.
 
 ### bd0_2.7.0_b2design
-`Purpose statement for supply chain design team?`
+`Purpose statement for supply chain design team?`  
 [BP] publishes generational wellness workbooks to empower [smallholder malanga farmers] design.
 
 ### bd0_2.7.0_b3marketing
-`Purpose statement for value chain marketing team?`
+`Purpose statement for value chain marketing team?`  
 [hu3] publishes risk mitigation campaigns to promote [alcoholic beverage manufacturers].
 
 ### bd0_2.7.0_b4sales
-`Purpose statement for value chain sales team?`
+`Purpose statement for value chain sales team?`  
 [hu3] publishes case studies to promote [alcoholic beverage manufacturers] lessons learned.
 
 ### bd0_2.7.0_b5communications
-`Purpose statement for civil chain communications team?`
+`Purpose statement for civil chain communications team?`  
 [tf] publishes meeting summaries to inform [DEG's platform players] of progress.
 
 ### bd0_2.7.0_b6story
-`Purpose statement for civil chain story team?`
+`Purpose statement for civil chain story team?`  
 [tf] publishes meeting stories to inspire [DEG's platform players] to participate in the future.
 
 ### bd0_2.7.0_b8governance
-`Purpose statement for civil chain governance team?`
+`Purpose statement for civil chain governance team?`  
 [tf] publishes family of Malanga game packs to teach [DEG's platform players] governance.

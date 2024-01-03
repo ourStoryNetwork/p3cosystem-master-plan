@@ -30,32 +30,32 @@
 
 ### bd0_2.7.0_b7purpose
 `Purpose statement for investment chain purpose team?`  
-[DEG] publishes P3 Ecosystem Plans to .
+[DEG] creates Platform Plans to help [African Investors] .
 
 ### bd0_2.7.0_b1management
 `Purpose statement for supply chain management team?`  
-[BP] publishes generational wellness workbooks to empower [smallholder malanga farmers] management.
+[BP] creates [Generational Wellness] Supply Chain Workbooks to help [smallholder malanga farmers] manage their lives.
 
 ### bd0_2.7.0_b2design
 `Purpose statement for supply chain design team?`  
-[BP] publishes generational wellness workbooks to empower [smallholder malanga farmers] design.
+[BP] creates [Generational Wellness] Supply Chain Wworkbooks to help [smallholder malanga farmers] design their lives.
 
 ### bd0_2.7.0_b3marketing
 `Purpose statement for value chain marketing team?`  
-[hu3] publishes risk mitigation campaigns to promote [alcoholic beverage manufacturers].
+[hu3] creates [beatDrop] Value Chain Wallets to help [alcoholic beverage manufacturers] market their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b4sales
 `Purpose statement for value chain sales team?`  
-[hu3] publishes case studies to promote [alcoholic beverage manufacturers] lessons learned.
+[hu3] creates [beatDrop] Value Chain Wallets to help [alcoholic beverage manufacturers] sell their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b5communications
 `Purpose statement for civil chain communications team?`  
-[tf] publishes meeting summaries to inform [DEG's platform players] of progress.
+[tf] creates [ep0_ma'ayor] Civil Chain Digital Twins to help [DEG's platform players] of progress.
 
 ### bd0_2.7.0_b6story
 `Purpose statement for civil chain story team?`  
-[tf] publishes meeting stories to inspire [DEG's platform players] to participate in the future.
+[tf] creates meeting stories to help [DEG's platform players] to participate in the future.
 
 ### bd0_2.7.0_b8governance
 `Purpose statement for civil chain governance team?`  
-[tf] publishes family of Malanga game packs to teach [DEG's platform players] governance.
+[tf] creates family of Malanga game packs to help [DEG's platform players] governance.

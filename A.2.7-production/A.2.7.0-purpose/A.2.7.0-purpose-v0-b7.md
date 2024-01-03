@@ -12,7 +12,7 @@
 
 ### PRODUCER // Fungi (Diamonds) // 0.9 Onboarding // TOYA Tenet #2
 `Goal for Q1?` 
-- DEG: Platform Plan Portal complete with funds from three investors.
+- DEG: Platform Plan Portal complete with funding from all investors.
 - BP: Complete Generational Wellness Workbook for DEG's Malanga ENA Supply Chain.
 - hu3: 39 waterWallet beatDrop Subscribers to promote DEG's Malanga ENA Value Chain.
 - tf: 1st ma'ayor Model completed (Seed Starter Stand) to gamify DEG's Malanga ENA Civil Chain.

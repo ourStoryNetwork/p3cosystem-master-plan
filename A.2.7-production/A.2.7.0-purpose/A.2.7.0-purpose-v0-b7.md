@@ -5,10 +5,10 @@
 
 ### OWNER // Protista (Spades) // 2.7 Purpose // TOYA Tenet #1
 `Goal for end of the year?`
-- DEG: Africa's first successful Malanga-Based 3EO Investment Chain.
-- BP: Generational Wellness Workbook onboards 54 families.
-- hu3: ep0_daoTeaching waterWallet features 52 hemp brands.
-- tf: 156 ep0_freeDumb subscribers
+- DEG: Africa's largest Agro-Processing Investment Chain Platform.
+- BP: Generational Wellness Workbook onboards 54 [smallholder farmers].
+- hu3: 156 waterWallet beatDrop subscriptions
+- tf: 3 ma'ayor Models (apt, garage, block)
 
 ### PRODUCER // Fungi (Diamonds) // 0.9 Onboarding // TOYA Tenet #2
 `Goal for Q1?`
@@ -34,28 +34,28 @@
 
 ### bd0_2.7.0_b1management
 `Purpose statement for supply chain management team?`  
-[BP] creates [Generational Wellness] Supply Chain Workbooks to help [smallholder malanga farmers] manage their [2.7.0 Purpose].
+[BP] creates [Generational Wellness Workbooks] (Supply Chain Workbooks) to help [smallholder malanga farmers] manage their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b2design
 `Purpose statement for supply chain design team?`  
-[BP] creates [Generational Wellness] Supply Chain Wworkbooks to help [smallholder malanga farmers] design their [2.7.0 Purpose].
+[BP] creates [Generational Wellness Workbooks] (Supply Chain Wworkbooks) to help [smallholder malanga farmers] design their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b3marketing
 `Purpose statement for value chain marketing team?`  
-[hu3] creates [beatDrop] Value Chain Wallets to help [alcoholic beverage manufacturers] market their [2.7.0 Purpose].
+[hu3] creates [beatDrop Subscriptions] (Value Chain Wallets) to help [alcoholic beverage manufacturers] market their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b4sales
 `Purpose statement for value chain sales team?`  
-[hu3] creates [beatDrop] Value Chain Wallets to help [alcoholic beverage manufacturers] sell their [2.7.0 Purpose].
+[hu3] creates [beatDrop Subscriptions] (Value Chain Wallets) to help [alcoholic beverage manufacturers] sell their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b5communications
 `Purpose statement for civil chain communications team?`  
-[tf] creates [ep0_ma'ayor] Civil Chain Digital Twins to help [DEG's platform players] communicate their [2.7.0 Purpose].
+[tf] creates [ep7_ma'ayor Models] (Civil Chain Digital Twins) to help [Civil Engineers] communicate their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b6story
 `Purpose statement for civil chain story team?`  
-[tf] creates [ep0_ma'ayor] Civil Chain Digital Twins to help [DEG's platform players] storyboard their [2.7.0 Purpose].
+[tf] creates [ep7_ma'ayor Models] (Civil Chain Digital Twins) to help [Civil Engineers] storyboard their [2.7.0 Purpose].
 
 ### bd0_2.7.0_b8governance
 `Purpose statement for civil chain governance team?`  
-[DEG] creates [ep7_malangaMindset] Civil Chain Digital Twins to help [DEG's platform players] govern their [2.7.0 Purpose].
+[DEG] creates [ep7_malangaMindset Models] (Civil Chain Digital Twins) to help [Platform Players] govern their [2.7.0 Purpose].

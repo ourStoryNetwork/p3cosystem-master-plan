@@ -6,16 +6,16 @@
 ### OWNER // Protista (Spades) // 2.7 Purpose // TOYA Tenet #1
 `Goal for end of the year?`
 - DEG: Africa's largest Agro-Processing Investment Chain Platform.
-- BP: Generational Wellness Workbook onboards 54 [smallholder farmers].
+- BP: Generational Wellness Workbook onboards Rwanda Agriculture Board.
 - hu3: 156 waterWallet beatDrop subscriptions
-- tf: 3 ma'ayor Models (apt, garage, block)
+- tf: 3 ma'ayor Models (stand, apartment, garage)
 
 ### PRODUCER // Fungi (Diamonds) // 0.9 Onboarding // TOYA Tenet #2
-`Goal for Q1?`
+`Goal for Q1?` 
 - DEG: Platform Plan Portal complete with funds from three investors.
-- BP: Generational Wellness Workbook complete with first DEG cohort scheduled.
-- hu3: waterWallet v0 complete in three.js with 15 beatDrops completed.
-- tf: 39 ep0_freeDumb subscribers
+- BP: Complete Generational Wellness Workbook for DEG's Malanga ENA Supply Chain.
+- hu3: 39 waterWallet beatDrop Subscribers to promote DEG's Malanga ENA Value Chain.
+- tf: 1st ma'ayor Model completed (Seed Starter Stand) to gamify DEG's Malanga ENA Civil Chain.
 
 ### CONSUMER // Animalia (Hearts) // 9.0 Training // TOYA Tenet #3
 `Goal for month (moon) 1?`

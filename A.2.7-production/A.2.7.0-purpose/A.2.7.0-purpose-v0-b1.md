@@ -1,6 +1,7 @@
 ## 2024.01.03.WED/ 1818 CST/ trainfarb/ ep0_daoTeaching/ bd0_2.7.0 Purposes: b1management
 
-
+![6C3528EF-6AAD-437A-BE7F-0BD5690DFABF](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/267f93cb-fa6b-4ec9-b39b-6e46830c603e)
+![FA6BCEA2-3D96-4536-9284-4EEDDAF995AF](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/6f0491e5-41a8-4c95-92cb-72d690fc3331)
 
 ### OWNER // Protista (Spades) // 2.7 Purpose // TOYA Tenet #1
 `End of year goal?`

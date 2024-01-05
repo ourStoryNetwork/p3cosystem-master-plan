@@ -57,32 +57,40 @@
 
 #### b7purpose
 Basis of Design Content: Songs and Comedy Clips
+Video: Sound of Creation
 Visualization: gr7myJourney glyph with purposes, problem, process, and proposal statements.
 
 #### b1management
 Basis of Design Research: Permaculture Videos
+Video: Sacred Sacred Geometry
 Visulization: gr1ourHome glyph with Healthy Intentions calendar with WBS and dates
 
 #### b2design
 Basis of Design Research: Interior Design and Event Design Videos
+Video: Secret of Water
 Visualization: gr2myHome glyph with design photo, research list, drawings, and font and color specifications
 
 #### b3marketing
 Basis of Design Research: Videos highlighting low income communities, presence, and platform design engineering.
+Video: Moses West Foundation
 Visualization: gr3ourAwareness glyph with risk, mitigation, and contingency clips.
 
 #### b4sales
 Basis of Design Research: Highway Vodka Website to highlight how to present purpose
+Video: Inner Evolution
 Visualization: gr4ourConnection glyph with header section for each platform team website outlined
 
 #### b5communications
 Basis of Design Research: Podcasts that inspire eatDrop essays
+Video: Huberman Lab - Water
 Visualization: gr5myConnection glyph with meeting abstracts for each platform player.
 
 #### b6story
 Basis of Design Research: One Piece Episodes to reinforce importance of affirming your purpose.
+Video: Viktor Strauberger - Water
 Visualization: gr7ourJourney glyph with beatDrop creative storyboard for citywide plan
 
 #### b8governance
 Basis of Design Research: Citywide planning videos, solar punk, etc.
+Video: Andrew Millision - Water Videos
 Visualization: gr8ourGame glyph with plan view of proposed city block for playTheFool

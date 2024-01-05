@@ -1,7 +1,7 @@
 ## 2024.01.04.THU/ 1423 CST/ ourStory/ hu3_lp0ep0daoTeaching/ bd0_2.7.0 Purposes: b2design
 
-(image)
-(image)
+![77C9587A-E9C8-4781-9C67-76CA354E24EE](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/32403657-7fd1-4170-a13b-babece37d0f3)
+![FDF7DBAE-BF7C-450F-930D-4B05F3B26F20](https://github.com/ourStoryNetwork/p3cosystem-master-plan/assets/8133349/2e8816a3-de90-4eab-aaf4-c4f347ab4258)
 
 ### OWNER: ourStory // Protista (Spades) // 2.7 Production // TOYA Tenet #1
 `End of year goal?`

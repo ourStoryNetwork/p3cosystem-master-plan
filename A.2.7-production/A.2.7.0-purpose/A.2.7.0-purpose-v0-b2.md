@@ -57,10 +57,14 @@
 
 #### b7purpose
 Basis of Design Content: Songs and Comedy Clips
+Video: Rwanda Unveils Kigali Innovation City Master Plan by CNBC Africa
+Video Link: https://youtu.be/FMpz3XIjAKg?si=tzJ1ku8AWvnBxRcS
 Visualization: gr7myJourney glyph with purposes, problem, process, and proposal statements.
 
 #### b1management
 Basis of Design Research: Permaculture Videos
+Video: How to Run a Profitable Small Farm | Circular Food Systems in East Africa by Ellen MacArthur Foundation  
+Video Link: https://youtu.be/gQZ6S8OyzHM?si=BwWdlKKFrSSFeHci
 Visulization: gr1ourHome glyph with Healthy Intentions calendar with WBS and dates
 
 #### b2design
@@ -73,6 +77,8 @@ Visualization: gr3ourAwareness glyph with risk, mitigation, and contingency clip
 
 #### b4sales
 Basis of Design Research: Highway Vodka Website to highlight how to present purpose
+Video: Hemp-Based Vodka: From Passion Project to Profitable Business
+Video Link: https://youtu.be/1HtnR15uPww?si=1GSXXYHpTc52USFi
 Visualization: gr4ourConnection glyph with header section for each platform team website outlined
 
 #### b5communications
@@ -81,10 +87,10 @@ Visualization: gr5myConnection glyph with meeting abstracts for each platform pl
 
 #### b6story
 Basis of Design Research: One Piece Episodes to reinforce importance of affirming your purpose.
-Video: Viktor Strauberger - Water
 Visualization: gr7ourJourney glyph with beatDrop creative storyboard for citywide plan
 
 #### b8governance
 Basis of Design Research: Citywide planning videos, solar punk, etc.
-Video: Andrew Millision - Water Videos
+Video: The African Architects Designing for People & Planet by Ashden
+Video Link: https://youtu.be/If8hxOjkPN4?si=XMu41Ykp-mHvJFbl
 Visualization: gr8ourGame glyph with plan view of proposed city block for playTheFool

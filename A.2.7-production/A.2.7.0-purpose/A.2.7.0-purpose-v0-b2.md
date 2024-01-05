@@ -56,59 +56,33 @@
   - Today: Add b3design notes to GitHub Pages. What content defines the design research for each platform and how will they be visualized?
 
 #### b7purpose
-
-
-Day 0: TOYA Tenet #5
-Date: 2024.01.02.TUE
-Reponsible: DEG Entreprises
-`Goal for Today`
-- Add b7purpose notes to GitHub Pages 
+Basis of Design Content: Songs and Comedy Clips
+Visualization: gr7myJourney glyph with purposes, problem, process, and proposal statements.
 
 #### b1management
-Day 1: TOYA Tenet #6
-Date: 2024.01.03.WED
-Responsible: Balance Period
-`Goal for Today`
-- Add b1management notes to GitHub Pages
+Basis of Design Research: Permaculture Videos
+Visulization: gr1ourHome glyph with Healthy Intentions calendar with WBS and dates
 
 #### b2design
-Day 2: TOYA Tenet #7
-Date: 2024.01.04.THU
-Responsible: Healthy Intentions
-`Goal for Today`
-- Add b2design notes to GitHub Pages
+Basis of Design Research: Interior Design and Event Design Videos
+Visualization: gr2myHome glyph with design photo, research list, drawings, and font and color specifications
 
 #### b3marketing
-Day 3: TOYA Tenet #8
-Date: 2024.01.05.FRI
-Responsible: ourStory
-`Goal for Today`
-- Add b3marketing notes to GitHub Pages
+Basis of Design Research: Videos highlighting low income communities, presence, and platform design engineering.
+Visualization: gr3ourAwareness glyph with risk, mitigation, and contingency clips.
 
 #### b4sales
-Day 4: TOYA Tenet #9
-Date: 2024.01.06.SAT
-Responsible: Nicole's Magic
-`Goal for Today`
-- Add b4sales n4otes to GitHub Pages
+Basis of Design Research: Highway Vodka Website to highlight how to present purpose
+Visualization: gr4ourConnection glyph with header section for each platform team website outlined
 
 #### b5communications
-Day 5: TOYA Tenet #10
-Date: 2024.01.07.SUN
-Responsible: hu3agency
-`Goal for Today`
-- Add b5communications notes to GitHub Pages
+Basis of Design Research: Podcasts that inspire eatDrop essays
+Visualization: gr5myConnection glyph with meeting abstracts for each platform player.
 
 #### b6story
-Day 6: TOYA Tenet #11
-Date: 2024.01.08.MON
-Responsible: JR's Joyous Creations
-`Goal for Today`
-- Add b6story notes to GitHub Pages
+Basis of Design Research: One Piece Episodes to reinforce importance of affirming your purpose.
+Visualization: gr7ourJourney glyph with beatDrop creative storyboard for citywide plan
 
 #### b8governance
-Day 7: TOYA Tenet #12
-Date: 2024.01.09.TUE
-Responsible: trainfarb
-`Goal for Today`
-- Add b8governance notes to GitHub Pages
+Basis of Design Research: Citywide planning videos, solar punk, etc.
+Visualization: gr8ourGame glyph with plan view of proposed city block for playTheFool

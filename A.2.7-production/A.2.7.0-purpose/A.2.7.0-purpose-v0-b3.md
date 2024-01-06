@@ -1,18 +1,33 @@
+### 2024.01.05.FRI/ 0824CST/ DEG Entreprises SA Ltd/ DEG_lp7ep7malangaMindset/ bd0 2.7.0 Purposes/ b3now
+- [*] Add this to b3now for hu3_lp1ep7theGreatRemix: https://www.instagram.com/p/C1wXNKAiIws/?igsh=MWFzZ3R4c2I3cXd1cA==
+
 ```
 OWNER: DEG Entreprises
   Codes:
     Platform: A.2.7 Production
+    Institution: Data
     Eukaryote: Ptorista
     Card Suit: Spades
-  DEG_lp7ep7bd0gr7v0chord:
-    3 moon (84d) goal: Investment Chain Platform Plan for Lead Investor
-    gr7v1physiology:
-      1 moon (28d) goal: Supply Chain Capacity Building Workbook for Rwanda Agriculture Board (RAB)
-    gr7v2ecology:
-      2 strength goal: Value Chain Go-To-Market Strategy Website  for Alcoholic Beverage Manufacturers (ABM)
-    gr7v3sociology:
-      1 strength goal: Civil Chain Manufacturing pocketPad Model for Ministry of Trade and Industry (MINICOM)
-      1 day goal: beatDrop0 2.7.0 Purposes b3now_OWNER Notes and Metadata in GitHub
+  goals:
+    28-day-goal:
+      id: DEG_lp7ep7bd0gr7v0chord
+      Objective: Publish Investment Chain Platform Plan A.2.7.3_v0.00 for Lead Investor
+      Due-Date: 2024.02.08.THU
+    14-day-goal:
+      id: gr7v1physiology
+      Objective: Publish Supply Chain Capacity Building Workbook A.2.7.1_v0.00 for Rwanda Agriculture Board (RAB)
+      due-date: 2024.01.25.THU
+    7-day-goal:
+      id: gr7v2ecology
+      Objective: Publish Value Chain Go-To-Market Strategy Website A_v0.00 for Alcoholic Beverage Manufacturers (ABM)
+      due-date: 2024.01.18.THU
+    1-day-goal:
+      id: gr7v3sociology
+      Objective: Publish Civil Chain Digital Twin Metadata A.2.7.0_v0.00_b3now_OWNER for MINICOM
+      due-date: 2024.01.06.FRI
+  marketing-strategy:
+    beat: b7learn
+    theme: purpose statements for players
 PRODUCER: trainfarb: am i wrong?
   Codes:
     Platform: B.0.9 Onboarding
